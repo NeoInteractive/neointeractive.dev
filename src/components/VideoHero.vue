@@ -58,6 +58,6 @@
   @apply px-6 py-1 bg-slate-700 text-gray-200 text-lg uppercase font-bold rounded hover:bg-slate-800 hover:text-gray-100 transition mr-2;
 }
 .hero-video {
-  @apply absolute z-10 aspect-video;
+  @apply absolute z-10 aspect-video w-full;
 }
 </style>

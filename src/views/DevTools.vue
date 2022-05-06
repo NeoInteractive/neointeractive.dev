@@ -3,7 +3,10 @@ import SubpageNav from "../components/SubpageNav.vue";
 </script>
 
 <template>
-  <SubpageNav title="Dev Tools" />
+  <SubpageNav
+    title="Dev Tools"
+    subtitle="Use our open source dev tools to help with your next game."
+  />
   <main class="container mx-auto px-4 py-24 text-slate-50">
     <h2 class="subtitle">VIZOR Tournament Scoreboard</h2>
     <p class="content text-xl">

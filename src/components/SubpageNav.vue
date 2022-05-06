@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-topo-red py-24">
+  <section class="bg-slate-900 py-24">
     <div class="container mx-auto px-4">
       <h1 class="title pt-24">
         {{ props.title }}

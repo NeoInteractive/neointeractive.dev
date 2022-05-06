@@ -23,7 +23,7 @@ const team = [
   },
   {
     name: "Arianna Chiriff",
-    title: "Art Director",
+    title: "Art Director, Concept Artist",
     imgSlug: "ari.png",
   },
   {
@@ -52,7 +52,7 @@ const team = [
 <template>
   <SubpageNav title="The Team" />
   <main class="container mx-auto px-4 py-24 text-slate-200">
-    <h2 class="subtitle">The People Behind Samurai Zero</h2>
+    <h2 class="title small">Who we are</h2>
     <p class="text-2xl content pb-8">
       Neo Interactive is a majority black owned indie development studio founded
       by three friends in 2019. We started as a group of individuals with years
@@ -72,7 +72,7 @@ const team = [
         delivering experiences we know gamers like us will love to play.
       </strong>
     </p>
-    <h2 class="title mt-24 pb-12">Core Team</h2>
+    <h2 class="title small mt-24 pb-12">Core Team</h2>
     <section class="flex flex-wrap flex-row">
       <div
         v-for="person in team"

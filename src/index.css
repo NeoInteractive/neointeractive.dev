@@ -10,9 +10,17 @@
   font-family: "Iceland", sans-serif;
   @apply font-extrabold tracking-widest text-7xl text-slate-100 max-w-[96rem] uppercase;
 }
+.title.small {
+  font-family: "Iceland", sans-serif;
+  @apply font-extrabold tracking-wider text-transparent text-5xl bg-clip-text bg-gradient-to-br mb-4 from-[#d14b56] to-[#FF2C3C] max-w-[80rem] uppercase;
+}
 .subtitle {
   font-family: "Space Grotesk", sans-serif;
-  @apply text-4xl text-slate-200 pt-6 pb-10 max-w-[60rem];
+  @apply text-3xl text-slate-200 pt-6 pb-10 max-w-[60rem];
+}
+.subtitle.small {
+  font-family: "Space Grotesk", sans-serif;
+  @apply text-base font-bold uppercase tracking-widest text-slate-200 pt-6 pb-2 max-w-[60rem];
 }
 .content {
   @apply font-light text-slate-300 tracking-wide;
