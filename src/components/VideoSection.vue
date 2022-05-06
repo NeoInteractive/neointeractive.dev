@@ -25,7 +25,7 @@ defineProps({
   @apply relative flex items-center justify-center w-full overflow-hidden;
 }
 .hero-content-container {
-  @apply relative z-30 w-full h-full text-2xl text-white bg-[#01000B] bg-opacity-90 backdrop-blur-md;
+  @apply relative z-30 w-full h-full text-2xl text-white bg-[#01000f] bg-opacity-90 backdrop-blur-md;
 }
 .hero-content {
   @apply container mx-auto flex flex-col h-full p-8 py-80;

@@ -9,8 +9,7 @@ import TheNavbar from "./components/TheNavbar.vue";
 
 <style>
 #app {
-  font-family: "Cabin", sans-serif;
-  background: #1a1922;
-  min-height: 100vh;
+  font-family: "Space Grotesk", sans-serif;
+  @apply bg-[#01000B] min-h-screen;
 }
 </style>

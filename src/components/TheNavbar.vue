@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import { useRoute } from "vue-router";
+
+const route = useRoute();
 let navItems = [
   {
     name: "Our Games",
@@ -28,12 +31,12 @@ let navItems = [
 </script>
 
 <template>
-  <nav class="w-full bg-[#1A1922] drop-shadow-md">
+  <nav class="bg-[#01000B] drop-shadow-md fixed top-0 w-screen z-50 py-4">
     <div class="container mx-auto flex flex-row justify-between py-3">
       <router-link to="/">
         <img
           src="../assets/logo_long.svg"
-          class="h-8"
+          class="h-10"
           alt="Neo Interactive logo"
         />
       </router-link>
@@ -43,6 +46,7 @@ let navItems = [
           :to="link.path"
           :key="link.name"
           class="ml-8 nav-link"
+          :class="{ active: link.path === route.path }"
         >
           {{ link.name }}
         </router-link>
@@ -50,10 +54,12 @@ let navItems = [
     </div>
   </nav>
 </template>
-
 <style scoped>
 .nav-link {
   font-family: "Iceland", sans-serif;
-  @apply text-gray-200 tracking-widest uppercase font-bold hover:text-red-500 transition;
+  @apply text-gray-200 tracking-widest text-lg uppercase font-bold hover:text-red-500 transition;
+}
+.nav-link.active {
+  @apply text-red-400;
 }
 </style>

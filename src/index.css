@@ -1,3 +1,82 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.title {
+  font-family: "Iceland", sans-serif;
+  @apply font-extrabold tracking-widest text-transparent text-7xl bg-clip-text bg-gradient-to-br from-[#d14b56] to-[#FF2C3C] max-w-[80rem] uppercase;
+}
+.title.white {
+  font-family: "Iceland", sans-serif;
+  @apply font-extrabold tracking-widest text-7xl text-slate-100 max-w-[96rem] uppercase;
+}
+.subtitle {
+  font-family: "Space Grotesk", sans-serif;
+  @apply text-4xl text-slate-200 pt-6 pb-10 max-w-[60rem];
+}
+.content {
+  @apply font-light text-slate-300 tracking-wide;
+}
+
+.bg-topo-red {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: repeating-linear-gradient(
+      0deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    repeating-linear-gradient(
+      67.5deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    repeating-linear-gradient(
+      157.5deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    repeating-linear-gradient(
+      112.5deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    repeating-linear-gradient(
+      22.5deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    repeating-linear-gradient(
+      0deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    repeating-linear-gradient(
+      112.5deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    repeating-linear-gradient(
+      22.5deg,
+      hsla(83, 0%, 53%, 0.03) 0px,
+      hsla(83, 0%, 53%, 0.03) 1px,
+      transparent 1px,
+      transparent 12px
+    ),
+    linear-gradient(90deg, rgb(1, 0, 11), rgb(1, 0, 11));
+}
