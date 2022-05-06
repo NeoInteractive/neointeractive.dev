@@ -13,7 +13,7 @@
           <router-link to="/games" class="hero-btn">
             View our Games
           </router-link>
-          <router-link to="/games" class="hero-btn"> Dev Tools </router-link>
+          <router-link to="/team" class="hero-btn"> The Team </router-link>
         </div>
       </div>
     </div>
