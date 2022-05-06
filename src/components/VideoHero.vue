@@ -7,7 +7,8 @@
         </h1>
         <h2 class="hero-subtitle">
           Neo Interactive is a video game development studio based out of
-          Detroit with a global team of amazing artists and developers.
+          Detroit with a global team of amazing artists and developers working
+          hard on Samurai Zero.
         </h2>
         <div class="hero-cta">
           <router-link to="/games" class="hero-btn">
