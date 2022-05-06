@@ -42,6 +42,11 @@ const team = [
     imgSlug: "felix.png",
   },
   {
+    name: "Jesse Jones",
+    title: "Sound Designer",
+    imgSlug: "jesse.jpg",
+  },
+  {
     name: "FSTR.Tech",
     title: "Support Studio, Environment Art",
     imgSlug: "fstr.jpg",
