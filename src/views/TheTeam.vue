@@ -13,7 +13,7 @@ const team = [
   },
   {
     name: "Eric Kelley",
-    title: "Co-Founder, Operations, Community Lead, Web Developer",
+    title: "Co-Founder, Operations, Web Developer, Community Lead",
     imgSlug: "eric.png",
   },
   {

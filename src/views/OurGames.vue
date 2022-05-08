@@ -4,7 +4,7 @@ import SubpageNav from "../components/SubpageNav.vue";
 
 <template>
   <SubpageNav title="Our Games" />
-  <main class="container mx-auto px-4 py-24 text-slate-50">
+  <main class="container mx-auto px-4 py-24 text-slate-50 min-h-screen">
     <a href="https://samuraizero.com" target="_blank" rel="noopener">
       <img
         src="../assets/img/sz-press-cover.jpg"

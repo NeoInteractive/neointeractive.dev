@@ -4,7 +4,7 @@ import SubpageNav from "../components/SubpageNav.vue";
 
 <template>
   <SubpageNav title="Press" />
-  <main class="container mx-auto p-4 text-slate-50 py-24">
+  <main class="container mx-auto p-4 text-slate-50 py-24 min-h-screen">
     <div class="flex flex-row">
       <section class="w-3/4 pr-24">
         <h2 class="title small">Welcome to Neo Interactive</h2>
