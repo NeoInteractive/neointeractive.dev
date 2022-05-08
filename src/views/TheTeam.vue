@@ -75,7 +75,7 @@ const team = [
       delivering experiences we know gamers like us will love to play.
     </p>
     <p class="text-2xl content pb-8">
-      In late 2021, Neo Interactive was selected to be a recipient of
+      In late 2021, we were selected to be a
       <strong class="font-bold">
         <a
           href="https://www.humblegames.com/"
@@ -83,8 +83,8 @@ const team = [
           target="_blank"
           rel="noopener"
         >
-          Humble Games</a
-        >'
+          Humble Games
+        </a>
 
         <a
           href="https://blackgame.dev"
@@ -95,8 +95,8 @@ const team = [
           Black Game Developer Fund
         </a>
       </strong>
-      to help continue the development of Samurai Zero and push beyond the
-      prototype phase.
+      grant recipient. This helped us to help continue the development of
+      Samurai Zero and push beyond the prototype phase.
     </p>
     <h2 class="title small mt-24 pb-12">Core Team</h2>
     <section class="flex flex-wrap flex-row">

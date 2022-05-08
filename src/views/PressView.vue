@@ -16,6 +16,30 @@ import SubpageNav from "../components/SubpageNav.vue";
           established a global remote studio working with a diverse group of 20+
           amazing developers and artists from around the world.
         </p>
+        <p class="text-2xl content pb-8">
+          In late 2021, Neo Interactive was selected to be a recipient of
+          <strong class="font-bold">
+            <a
+              href="https://www.humblegames.com/"
+              class="hover:underline"
+              target="_blank"
+              rel="noopener"
+            >
+              Humble Games</a
+            >'
+
+            <a
+              href="https://blackgame.dev"
+              class="hover:underline"
+              target="_blank"
+              rel="noopener"
+            >
+              Black Game Developer Fund
+            </a>
+          </strong>
+          to help continue the development of Samurai Zero and push beyond the
+          prototype phase.
+        </p>
       </section>
       <aside class="">
         <h2 class="title small">Quick Info</h2>
