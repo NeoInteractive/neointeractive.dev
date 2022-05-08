@@ -71,11 +71,32 @@ const team = [
       our singular mantra. From the early prototypes to the late night
       development sessions - Always Forward - and always determined to see our
       vision become a reality. Whether it was small steps or great leaps forward
-      -
+      - our dedication is to create games fitting the vision we hone while
+      delivering experiences we know gamers like us will love to play.
+    </p>
+    <p class="text-2xl content pb-8">
+      In late 2021, Neo Interactive was selected to be a recipient of
       <strong class="font-bold">
-        our dedication is to create games fitting the vision we hone while
-        delivering experiences we know gamers like us will love to play.
+        <a
+          href="https://www.humblegames.com/"
+          class="hover:underline"
+          target="_blank"
+          rel="noopener"
+        >
+          Humble Games</a
+        >'
+
+        <a
+          href="https://blackgame.dev"
+          class="hover:underline"
+          target="_blank"
+          rel="noopener"
+        >
+          Black Game Developer Fund
+        </a>
       </strong>
+      to help continue our journey of making Samurai Zero the best game we can
+      make it.
     </p>
     <h2 class="title small mt-24 pb-12">Core Team</h2>
     <section class="flex flex-wrap flex-row">

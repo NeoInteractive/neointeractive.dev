@@ -6,6 +6,10 @@ const route = useRoute();
 let mobileNav = ref(false);
 let navItems = [
   {
+    name: "Home",
+    path: "/",
+  },
+  {
     name: "Our Games",
     path: "/games",
   },
