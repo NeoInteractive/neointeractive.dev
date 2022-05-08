@@ -95,7 +95,8 @@ const team = [
           Black Game Developer Fund
         </a>
       </strong>
-      to help continue our journey of making Samurai Zero the best game we can.
+      to help continue the development of Samurai Zero and push beyond the
+      prototype phase.
     </p>
     <h2 class="title small mt-24 pb-12">Core Team</h2>
     <section class="flex flex-wrap flex-row">
