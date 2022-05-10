@@ -37,6 +37,11 @@ const team = [
     imgSlug: "dan.png",
   },
   {
+    name: "Anonymuz",
+    title: "Composer",
+    imgSlug: "anon.jpg",
+  },
+  {
     name: "Zack Valentine",
     title: "Character Artist",
     imgSlug: "zach.png",
