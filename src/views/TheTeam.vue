@@ -128,7 +128,7 @@ const team = [
       grant recipient. This helped us to help continue the development of
       Samurai Zero and push beyond the prototype phase.
     </p>
-    <h2 class="title small mt-24 pb-12">Core Team</h2>
+    <h2 class="title small mt-24 pb-12">Meet the Team</h2>
     <section class="flex flex-wrap flex-row">
       <div
         v-for="person in team"
