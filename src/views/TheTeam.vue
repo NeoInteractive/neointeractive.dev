@@ -66,6 +66,11 @@ const team = [
     title: "Support Studio, Environment Art",
     imgSlug: "fstr.jpg",
   },
+  {
+    name: "Nola Klop",
+    title: "Voice Over Artist",
+    imgSlug: "nola.png",
+  },
 ];
 </script>
 
