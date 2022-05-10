@@ -23,13 +23,18 @@ const team = [
   },
   {
     name: "Arianna Chiriff",
-    title: "Art Director, Concept Artist",
+    title: "Concept Artist",
     imgSlug: "ari.png",
   },
   {
     name: "Griffin Gallagher",
     title: "Narrative Designer",
     imgSlug: "griff.png",
+  },
+  {
+    name: "DanNaturals",
+    title: "Composer",
+    imgSlug: "dan.png",
   },
   {
     name: "Zack Valentine",
