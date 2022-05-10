@@ -22,14 +22,14 @@ const team = [
     imgSlug: "reid.png",
   },
   {
-    name: "Arianna Chiriff",
-    title: "Concept Artist",
-    imgSlug: "ari.png",
+    name: "Zack Valentine",
+    title: "Character Artist",
+    imgSlug: "zach.png",
   },
   {
-    name: "Griffin Gallagher",
-    title: "Narrative Designer",
-    imgSlug: "griff.png",
+    name: "Felix Alonso",
+    title: "Animator",
+    imgSlug: "felix.png",
   },
   {
     name: "Anonymuz",
@@ -47,19 +47,19 @@ const team = [
     imgSlug: "nathan.png",
   },
   {
-    name: "Zack Valentine",
-    title: "Character Artist",
-    imgSlug: "zach.png",
-  },
-  {
-    name: "Felix Alonso",
-    title: "Animator",
-    imgSlug: "felix.png",
-  },
-  {
     name: "Jesse Jones",
     title: "Sound Designer",
     imgSlug: "jesse.jpg",
+  },
+  {
+    name: "Arianna Chiriff",
+    title: "Concept Artist",
+    imgSlug: "ari.png",
+  },
+  {
+    name: "Griffin Gallagher",
+    title: "Narrative Designer",
+    imgSlug: "griff.png",
   },
   {
     name: "FSTR.Tech",
