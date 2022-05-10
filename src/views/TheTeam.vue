@@ -32,14 +32,19 @@ const team = [
     imgSlug: "griff.png",
   },
   {
+    name: "Anonymuz",
+    title: "Executive Music Producer",
+    imgSlug: "anon.jpg",
+  },
+  {
     name: "DanNaturals",
     title: "Composer",
     imgSlug: "dan.png",
   },
   {
-    name: "Anonymuz",
-    title: "Executive Music Producer",
-    imgSlug: "anon.jpg",
+    name: "Nathan Cleary",
+    title: "Composer, Sound Designer and Implementation",
+    imgSlug: "nathan.png",
   },
   {
     name: "Zack Valentine",
