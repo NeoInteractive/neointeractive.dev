@@ -62,14 +62,19 @@ const team = [
     imgSlug: "griff.png",
   },
   {
-    name: "FSTR.Tech",
-    title: "Support Studio, Environment Art",
-    imgSlug: "fstr.jpg",
-  },
-  {
     name: "Nola Klop",
     title: "Voice Over Artist",
     imgSlug: "nola.png",
+  },
+  {
+    name: "Felicia Valenti",
+    title: "Voice Over Artist",
+    imgSlug: "felicia.png",
+  },
+  {
+    name: "FSTR.Tech",
+    title: "Support Studio, Environment Art",
+    imgSlug: "fstr.jpg",
   },
 ];
 </script>
