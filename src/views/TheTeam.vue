@@ -38,7 +38,7 @@ const team = [
   },
   {
     name: "Anonymuz",
-    title: "Composer",
+    title: "Executive Music Producer",
     imgSlug: "anon.jpg",
   },
   {
