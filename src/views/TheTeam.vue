@@ -72,6 +72,11 @@ const team = [
     imgSlug: "felicia.png",
   },
   {
+    name: "David Cherry",
+    title: "Voice Over Artist",
+    imgSlug: "dave.jpg",
+  },
+  {
     name: "FSTR.Tech",
     title: "Support Studio, Environment Art",
     imgSlug: "fstr.jpg",
