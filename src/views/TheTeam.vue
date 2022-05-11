@@ -57,6 +57,11 @@ const team = [
     imgSlug: "ari.png",
   },
   {
+    name: "Brandon J Richard",
+    title: "Concept Artist",
+    imgSlug: "brandon.png",
+  },
+  {
     name: "Griffin Gallagher",
     title: "Narrative Designer",
     imgSlug: "griff.png",
