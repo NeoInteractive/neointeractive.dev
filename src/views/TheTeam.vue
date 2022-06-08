@@ -52,6 +52,11 @@ const team = [
     imgSlug: "jesse.jpg",
   },
   {
+    name: "Robert Fabiani",
+    title: "Creature Artist",
+    imgSlug: "robert.png",
+  },
+  {
     name: "Arianna Chiriff",
     title: "Concept Artist",
     imgSlug: "ari.png",
